@@ -1,0 +1,15 @@
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/bin/Debug/net7.0/video2
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/bin/Debug/net7.0/video2.deps.json
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/bin/Debug/net7.0/video2.runtimeconfig.json
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/bin/Debug/net7.0/video2.dll
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/bin/Debug/net7.0/video2.pdb
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/obj/Debug/net7.0/video2.csproj.AssemblyReference.cache
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/obj/Debug/net7.0/video2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/obj/Debug/net7.0/video2.AssemblyInfoInputs.cache
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/obj/Debug/net7.0/video2.AssemblyInfo.cs
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/obj/Debug/net7.0/video2.csproj.CoreCompileInputs.cache
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/obj/Debug/net7.0/video2.dll
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/obj/Debug/net7.0/refint/video2.dll
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/obj/Debug/net7.0/video2.pdb
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/obj/Debug/net7.0/video2.genruntimeconfig.cache
+/Users/norahwouters/Documents/GitHub/Video/video2/video2/obj/Debug/net7.0/ref/video2.dll
